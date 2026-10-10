@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdad660b6bb94e90a4793418bc714c7a, type: 3}
+  m_Name: NurseryUISkin
+  m_EditorClassIdentifier: 
+  panelBackground: {fileID: 7616393772120553372, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  panelSliceBorders: {x: 180, y: 100, z: 180, w: 100}
+  cardSliceBorders: {x: 90, y: 70, z: 90, w: 70}
+  primaryNormal: {fileID: -6232283241268740595, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  primaryPressed: {fileID: -4216208974103591685, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  primaryDisabled: {fileID: 7605339805725343223, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  buyAvailable: {fileID: -8949303255004661216, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  buyDisabled: {fileID: -6944101558935594078, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  buyMax: {fileID: 6921655177234442741, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconMinka: {fileID: -1411733758, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconSeedling: {fileID: -870868530, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconIrrigation: {fileID: 2144000392, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconCapacity: {fileID: 723276807, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconSoilPreparation: {fileID: 1349485891, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  iconExpansion: {fileID: 1058176333320146614, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  productionTabActive: {fileID: 1708238606, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  productionTabInactive: {fileID: -1772219884, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  upgradesTabActive: {fileID: 2502506546759269504, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  upgradesTabInactive: {fileID: -1549014459, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  tabActive: {fileID: 0}
+  tabInactive: {fileID: 0}
+  progressInsets: {x: 14, y: 8, z: 14, w: 8}
+  panelSliceScale: 0.3
+  cardSliceScale: 0.5
+  produceButtonBackground: {fileID: 0}
+  buyButtonBackground: {fileID: 0}
+  closeButtonBackground: {fileID: 210332732068411645, guid: 5ca58699675cc9c4a9d3541480edf939, type: 3}
+  progressBackground: {fileID: -5935863068154948587, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  progressFill: {fileID: 4510913734309192182, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  upgradeCardBackground: {fileID: -2132340535556009094, guid: bfce849dc9a1db44c86aa4de3df71d7f, type: 3}
+  additionalStyles: {fileID: 0}

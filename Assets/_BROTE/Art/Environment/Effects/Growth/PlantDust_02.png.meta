@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: a6d689a0e1f065147b657eee539b366e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 633187891083703973
+    second: PlantDust_02_0
+  - first:
+      213: 5844607180868999856
+    second: PlantDust_02_1
+  - first:
+      213: -4729068698531098990
+    second: PlantDust_02_2
+  - first:
+      213: 806845563179430264
+    second: PlantDust_02_3
+  - first:
+      213: 6601683721759890687
+    second: PlantDust_02_4
+  - first:
+      213: -2952925429998928519
+    second: PlantDust_02_5
+  - first:
+      213: 804139552721771380
+    second: PlantDust_02_6
+  - first:
+      213: -7459986521994083905
+    second: PlantDust_02_7
+  - first:
+      213: -3059639780780085894
+    second: PlantDust_02_8
+  - first:
+      213: -3277406841604474331
+    second: PlantDust_02_9
+  - first:
+      213: -7299062082738108525
+    second: PlantDust_02_10
+  - first:
+      213: 7644188144574063330
+    second: PlantDust_02_11
+  - first:
+      213: -780365331650866481
+    second: PlantDust_02_12
+  - first:
+      213: -3761541581056342614
+    second: PlantDust_02_13
+  - first:
+      213: -7904064404054090090
+    second: PlantDust_02_14
+  - first:
+      213: 6899977087193134139
+    second: PlantDust_02_15
+  - first:
+      213: 2572614601409023577
+    second: PlantDust_02_16
+  - first:
+      213: 2923155476976723947
+    second: PlantDust_02_17
+  - first:
+      213: 8797202898058223577
+    second: PlantDust_02_18
+  - first:
+      213: -4665716017455990608
+    second: PlantDust_02_19
+  - first:
+      213: -1624049425171070166
+    second: PlantDust_02_20
+  - first:
+      213: -4605981002931073794
+    second: PlantDust_02_21
+  - first:
+      213: -3127392565404481195
+    second: PlantDust_02_22
+  - first:
+      213: 3461927988855424256
+    second: PlantDust_02_23
+  - first:
+      213: -8484565481723674902
+    second: PlantDust_02_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlantDust_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1241
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a67f1c380989c800800000000000000
+      internalID: 633187891083703973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1085
+        width: 215
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad463d3473c1150800000000000000
+      internalID: 5844607180868999856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1197
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e82a90319fe5eb0800000000000000
+      internalID: -4729068698531098990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1181
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f8edc3cd723b00800000000000000
+      internalID: 806845563179430264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1124
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc1af22e54ed9b50800000000000000
+      internalID: 6601683721759890687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 996
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d32b877f91507d0800000000000000
+      internalID: -2952925429998928519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 787
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b92d5a9a0e82b00800000000000000
+      internalID: 804139552721771380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 795
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1475f68cdc87890800000000000000
+      internalID: -7459986521994083905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7de2fd74d9f985d0800000000000000
+      internalID: -3059639780780085894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 773
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52afabd87df4482d0800000000000000
+      internalID: -3277406841604474331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 771
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974fd435b584ba90800000000000000
+      internalID: -7299062082738108525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 749
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2e699ed9c951a60800000000000000
+      internalID: 7644188144574063330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29beb8dd59b25f0800000000000000
+      internalID: -780365331650866481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5864d8cd15ccbc0800000000000000
+      internalID: -3761541581056342614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_14
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 401
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69edb825d4f1f4290800000000000000
+      internalID: -7904064404054090090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_15
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 375
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343b786a94a1cf50800000000000000
+      internalID: 6899977087193134139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_16
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 387
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ec7f48953c3b320800000000000000
+      internalID: 2572614601409023577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_17
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 383
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be76f643b62219820800000000000000
+      internalID: 2923155476976723947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_18
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 318
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1ccb1d61f51a70800000000000000
+      internalID: 8797202898058223577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b87fac800c004fb0800000000000000
+      internalID: -4665716017455990608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23400307a73679e0800000000000000
+      internalID: -1624049425171070166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_21
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 274
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc881e6ea44410c0800000000000000
+      internalID: -4605981002931073794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594ed908054994d0800000000000000
+      internalID: -3127392565404481195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 116
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c5bde92d3b0030800000000000000
+      internalID: 3461927988855424256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 107
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb154c5a4c04a80800000000000000
+      internalID: -8484565481723674902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlantDust_02_0: 633187891083703973
+      PlantDust_02_1: 5844607180868999856
+      PlantDust_02_10: -7299062082738108525
+      PlantDust_02_11: 7644188144574063330
+      PlantDust_02_12: -780365331650866481
+      PlantDust_02_13: -3761541581056342614
+      PlantDust_02_14: -7904064404054090090
+      PlantDust_02_15: 6899977087193134139
+      PlantDust_02_16: 2572614601409023577
+      PlantDust_02_17: 2923155476976723947
+      PlantDust_02_18: 8797202898058223577
+      PlantDust_02_19: -4665716017455990608
+      PlantDust_02_2: -4729068698531098990
+      PlantDust_02_20: -1624049425171070166
+      PlantDust_02_21: -4605981002931073794
+      PlantDust_02_22: -3127392565404481195
+      PlantDust_02_23: 3461927988855424256
+      PlantDust_02_24: -8484565481723674902
+      PlantDust_02_3: 806845563179430264
+      PlantDust_02_4: 6601683721759890687
+      PlantDust_02_5: -2952925429998928519
+      PlantDust_02_6: 804139552721771380
+      PlantDust_02_7: -7459986521994083905
+      PlantDust_02_8: -3059639780780085894
+      PlantDust_02_9: -3277406841604474331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

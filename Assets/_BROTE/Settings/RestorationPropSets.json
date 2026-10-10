@@ -1,0 +1,48 @@
+{
+  "sourceSheet": "Assets/_BROTE/Art/Environment/Props/Nature/Restoration_Props.png",
+  "editorOnlyData": true,
+  "groups": {
+    "Degraded": [
+      "Deg_Grass_01",
+      "Deg_Grass_02",
+      "Deg_Grass_03",
+      "Deg_Rock_01",
+      "Deg_Rock_02",
+      "Deg_Rock_03",
+      "Deg_Branch_01",
+      "Deg_Branch_02",
+      "Deg_Shrub_01",
+      "Deg_Shrub_02",
+      "Deg_Patch_01",
+      "Deg_Patch_02"
+    ],
+    "Recovery": [
+      "Rec_Grass_01",
+      "Rec_Grass_02",
+      "Rec_Grass_03",
+      "Rec_Sprout_01",
+      "Rec_Sprout_02",
+      "Rec_Sprout_03",
+      "Rec_Shrub_01",
+      "Rec_Shrub_02",
+      "Rec_Grass_04",
+      "Rec_Grass_05",
+      "Rec_Plant_01",
+      "Rec_Plant_02"
+    ],
+    "Restored": [
+      "Res_Grass_01",
+      "Res_Grass_02",
+      "Res_Grass_03",
+      "Res_Shrub_01",
+      "Res_Shrub_02",
+      "Res_Shrub_03",
+      "Res_Flowers_01",
+      "Res_Flowers_02",
+      "Res_Grass_04",
+      "Res_Grass_05",
+      "Res_Shrub_04",
+      "Res_Flowers_03"
+    ]
+  }
+}

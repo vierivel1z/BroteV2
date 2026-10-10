@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Brote.EditModeTests.csproj" />
+  <Project Path="Brote.PlayModeTests.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Unity.2D.Welcome.csproj" />
+</Solution>

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7013035cec390d49ad1ef89364f8b40, type: 3}
+  m_Name: BroteAmbienceClips
+  m_EditorClassIdentifier: Assembly-CSharp::BroteAmbienceClips
+  wind: {fileID: 8300000, guid: e5930154e80f1c7428a10503bfc324cb, type: 3}
+  birds: {fileID: 8300000, guid: b9540410d2b4edb46a7a6d7615091c7f, type: 3}
+  river: {fileID: 8300000, guid: b35158edf7b1ecd4badb98495dfc0dc7, type: 3}
+  leaves: {fileID: 8300000, guid: 7916e3fd0f1794a44b5a7167475de78a, type: 3}

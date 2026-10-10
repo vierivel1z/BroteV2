@@ -1,0 +1,10 @@
+{
+  "name": "Brote.EditModeTests",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 3cebe8a8088f21347971c3bf6aeb70f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1121764355960762556
+    second: GameplayHUD_Atlas_0
+  - first:
+      213: -2688185358272510556
+    second: GameplayHUD_Atlas_1
+  - first:
+      213: -1662961154598350978
+    second: GameplayHUD_Atlas_2
+  - first:
+      213: -1186350373012711762
+    second: GameplayHUD_Atlas_3
+  - first:
+      213: -2265159750435218309
+    second: GameplayHUD_Atlas_4
+  - first:
+      213: 1631584474485449517
+    second: GameplayHUD_Atlas_5
+  - first:
+      213: 1601284490652929620
+    second: GameplayHUD_Atlas_6
+  - first:
+      213: 873642472199206934
+    second: GameplayHUD_Atlas_7
+  - first:
+      213: -100228630226525547
+    second: GameplayHUD_Atlas_8
+  - first:
+      213: 747039144739788504
+    second: GameplayHUD_Atlas_9
+  - first:
+      213: -5821053158455023073
+    second: GameplayHUD_Atlas_10
+  - first:
+      213: 3799385225621338856
+    second: GameplayHUD_Atlas_11
+  - first:
+      213: -8453192250376340815
+    second: GameplayHUD_Atlas_12
+  - first:
+      213: 5896005781814557440
+    second: GameplayHUD_Atlas_13
+  - first:
+      213: 6412788980761825773
+    second: GameplayHUD_Atlas_14
+  - first:
+      213: -3300527238337401967
+    second: GameplayHUD_Atlas_15
+  - first:
+      213: -5216530366786162736
+    second: GameplayHUD_Atlas_16
+  - first:
+      213: -6065311501702792836
+    second: GameplayHUD_Atlas_17
+  - first:
+      213: 1731466751276901832
+    second: GameplayHUD_Atlas_18
+  - first:
+      213: 2672877797852341636
+    second: GameplayHUD_Atlas_19
+  - first:
+      213: 6824951617038557359
+    second: GameplayHUD_Atlas_20
+  - first:
+      213: -2548743680584307792
+    second: GameplayHUD_Atlas_21
+  - first:
+      213: -7725553157043807647
+    second: GameplayHUD_Atlas_22
+  - first:
+      213: 2893012315112770926
+    second: GameplayHUD_Atlas_23
+  - first:
+      213: -6574326351839958725
+    second: GameplayHUD_Atlas_24
+  - first:
+      213: -907196963833231596
+    second: GameplayHUD_Atlas_25
+  - first:
+      213: -4858463633574274163
+    second: GameplayHUD_Atlas_26
+  - first:
+      213: 8190695440294229488
+    second: GameplayHUD_Atlas_27
+  - first:
+      213: 7376188091365767489
+    second: GameplayHUD_Atlas_28
+  - first:
+      213: 7838546231249996706
+    second: GameplayHUD_Atlas_29
+  - first:
+      213: -2471556326156950364
+    second: GameplayHUD_Atlas_30
+  - first:
+      213: -3252146043775180960
+    second: GameplayHUD_Atlas_31
+  - first:
+      213: 1246518216873435093
+    second: GameplayHUD_Atlas_32
+  - first:
+      213: -5831219374417409874
+    second: GameplayHUD_Atlas_33
+  - first:
+      213: -4231783294510124811
+    second: GameplayHUD_Atlas_34
+  - first:
+      213: 1165197108666346185
+    second: GameplayHUD_Atlas_35
+  - first:
+      213: -3347253857325912647
+    second: GameplayHUD_Atlas_36
+  - first:
+      213: -5599458889207874950
+    second: GameplayHUD_Atlas_37
+  - first:
+      213: 1366019858494511782
+    second: GameplayHUD_Atlas_38
+  - first:
+      213: -2817513156551638479
+    second: GameplayHUD_Atlas_39
+  - first:
+      213: -1713880912189785484
+    second: GameplayHUD_Atlas_40
+  - first:
+      213: 3326764483500525907
+    second: GameplayHUD_Atlas_41
+  - first:
+      213: 8665289558428986649
+    second: GameplayHUD_Atlas_42
+  - first:
+      213: 3303920045488732572
+    second: GameplayHUD_Atlas_43
+  - first:
+      213: 3308448920503122939
+    second: GameplayHUD_Atlas_44
+  - first:
+      213: 4818278079472367733
+    second: GameplayHUD_Atlas_45
+  - first:
+      213: -317895669021874944
+    second: GameplayHUD_Atlas_46
+  - first:
+      213: 9013166271206376018
+    second: GameplayHUD_Atlas_47
+  - first:
+      213: 9183402511800120328
+    second: GameplayHUD_Atlas_48
+  - first:
+      213: -7349183780291213227
+    second: GameplayHUD_Atlas_49
+  - first:
+      213: -8678580640444861880
+    second: GameplayHUD_Atlas_50
+  - first:
+      213: -6455202176328742521
+    second: GameplayHUD_Atlas_51
+  - first:
+      213: 5159576710130797560
+    second: GameplayHUD_Atlas_52
+  - first:
+      213: -816631313863785681
+    second: GameplayHUD_Atlas_53
+  - first:
+      213: -376776300718948601
+    second: GameplayHUD_Atlas_54
+  - first:
+      213: -3599605273876244390
+    second: GameplayHUD_Atlas_55
+  - first:
+      213: 8639973475987353251
+    second: GameplayHUD_Atlas_56
+  - first:
+      213: 7155565607269923812
+    second: GameplayHUD_Atlas_57
+  - first:
+      213: -4598636694235657835
+    second: GameplayHUD_Atlas_58
+  - first:
+      213: 5039846750716679492
+    second: GameplayHUD_Atlas_59
+  - first:
+      213: 1451659099270184217
+    second: GameplayHUD_Atlas_60
+  - first:
+      213: -5033103819656410194
+    second: GameplayHUD_Atlas_61
+  - first:
+      213: -4935906134810595141
+    second: GameplayHUD_Atlas_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameplayHUD_MainPanel
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 1657
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f8349f241be60f0800000000000000
+      internalID: -1121764355960762556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameplayHUD_ProgressFill
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 189
+        width: 717
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db49646bcbdfc9845a25352c0b0b2030
+      internalID: 1833989828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameplayHUD_AccentDiamond
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 178
+        width: 295
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403ca4456307e0344b57d91322796949
+      internalID: 621680116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91f85cfdd7969f24e8b5efa1718736ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1672.0,"y":941.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GameplayHUD_AccentDiamond: 621680116
+      GameplayHUD_MainPanel: -1121764355960762556
+      GameplayHUD_ProgressFill: 1833989828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

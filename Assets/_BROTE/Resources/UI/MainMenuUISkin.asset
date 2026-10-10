@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c07c20838378b4d9bd4f4b5a768f40, type: 3}
+  m_Name: MainMenuUISkin
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 92f40047d8d17984297317c48e2c8e90, type: 3}
+  logo: {fileID: 0}
+  buttonNormal: {fileID: 656742694282994850, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  buttonHover: {fileID: 6411749179246306755, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  buttonPressed: {fileID: 1060715886, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  buttonDisabled: {fileID: -1911722506, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  buttonSmall: {fileID: 1631740325, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  titlePlate: {fileID: -71397545, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  panelBackground: {fileID: 1516673066, guid: 77dcc4a9bffaacb46a4359aa380bfa6b, type: 3}
+  leaves:
+  - {fileID: -5574345039099316991, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}
+  - {fileID: -1345300672, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}
+  - {fileID: 622881387, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}
+  clusters:
+  - {fileID: 1728080655, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}
+  winds:
+  - {fileID: 1454111204, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}
+  - {fileID: -523072952, guid: 9f11ed39ae6f56349ac4e579a8ed3c38, type: 3}

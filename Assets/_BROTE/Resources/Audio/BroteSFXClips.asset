@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d23e083a825274f8659816e87230d0, type: 3}
+  m_Name: BroteSFXClips
+  m_EditorClassIdentifier: Assembly-CSharp::BroteSFXClips
+  plant: {fileID: 8300000, guid: 545bc3698b9b9e24ab5cebb8981a98b4, type: 3}
+  seedlingReady: {fileID: 8300000, guid: eae7c2ad4535b8f4c937a019e58b3f5e, type: 3}
+  growth: {fileID: 8300000, guid: ef0cfd307b2699d439e03296042ce467, type: 3}
+  upgrade: {fileID: 8300000, guid: 100bdc874367373438dd66a801f6524e, type: 3}
+  sectorRestored: {fileID: 8300000, guid: 812450a5f7bdf4f4aa514524b50af5d0, type: 3}

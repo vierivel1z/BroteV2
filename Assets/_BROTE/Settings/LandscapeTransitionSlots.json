@@ -1,0 +1,102 @@
+{
+  "editorOnly": true,
+  "container": "World/Midground/LandscapeTransition",
+  "slots": [
+    {
+      "kind": "Rock",
+      "worldPosition": {
+        "x": -16.8,
+        "y": 6.038
+      },
+      "transitionLocalPosition": {
+        "x": -16.8,
+        "y": 4.288
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Ichu",
+      "worldPosition": {
+        "x": -12.8,
+        "y": 5.224
+      },
+      "transitionLocalPosition": {
+        "x": -12.8,
+        "y": 3.474
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Shrub",
+      "worldPosition": {
+        "x": -8.4,
+        "y": 4.695
+      },
+      "transitionLocalPosition": {
+        "x": -8.4,
+        "y": 2.945
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Rock",
+      "worldPosition": {
+        "x": -3.4,
+        "y": 5.001
+      },
+      "transitionLocalPosition": {
+        "x": -3.4,
+        "y": 3.251
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Ichu",
+      "worldPosition": {
+        "x": 1.8,
+        "y": 4.518
+      },
+      "transitionLocalPosition": {
+        "x": 1.8,
+        "y": 2.768
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Shrub",
+      "worldPosition": {
+        "x": 6.8,
+        "y": 3.329
+      },
+      "transitionLocalPosition": {
+        "x": 6.8,
+        "y": 1.579
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Rock",
+      "worldPosition": {
+        "x": 11.7,
+        "y": 2.589
+      },
+      "transitionLocalPosition": {
+        "x": 11.7,
+        "y": 0.839
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    },
+    {
+      "kind": "Ichu",
+      "worldPosition": {
+        "x": 16.5,
+        "y": 3.923
+      },
+      "transitionLocalPosition": {
+        "x": 16.5,
+        "y": 2.173
+      },
+      "status": "PROPOSAL_ONLY_NO_ART"
+    }
+  ]
+}

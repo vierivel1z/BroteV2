@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement name="upgrade-card" class="nursery-upgrade-card">
+        <ui:VisualElement name="upgrade-icon" />
+        <ui:Label name="upgrade-title" />
+        <ui:Label name="upgrade-level" />
+        <ui:Label name="upgrade-effect" />
+        <ui:Label name="upgrade-cost" />
+        <ui:Button name="upgrade-buy" class="nursery-buy-button" />
+    </ui:VisualElement>
+</ui:UXML>

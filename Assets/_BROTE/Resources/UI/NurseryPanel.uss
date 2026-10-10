@@ -1,0 +1,5 @@
+.nursery-button { -unity-text-align: middle-center; }
+.nursery-button:disabled { opacity: 0.55; }
+.nursery-button:hover:enabled { opacity: 0.92; }
+.nursery-button:focus { border-color: rgb(230, 220, 170); }
+.nursery-tab { border-width: 0; }

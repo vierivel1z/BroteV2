@@ -1,0 +1,114 @@
+{
+  "zones": [
+    {
+      "name": "Initial",
+      "stableIds": [
+        "01",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "name": "Expansion01",
+      "stableIds": [
+        "04",
+        "05",
+        "08"
+      ]
+    },
+    {
+      "name": "Expansion02",
+      "stableIds": [
+        "02",
+        "03",
+        "07"
+      ]
+    }
+  ],
+  "prepared": [
+    "01",
+    "06"
+  ],
+  "positionsBefore": [
+    {
+      "id": "02",
+      "position": {
+        "x": 7.4,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "01",
+      "position": {
+        "x": -7.481544,
+        "y": -3.4648867
+      }
+    },
+    {
+      "id": "08",
+      "position": {
+        "x": 0.47924554,
+        "y": 4.666937
+      }
+    },
+    {
+      "id": "06",
+      "position": {
+        "x": -2.0129051,
+        "y": 0.10699844
+      }
+    },
+    {
+      "id": "09",
+      "position": {
+        "x": -11.0,
+        "y": 2.55
+      }
+    },
+    {
+      "id": "07",
+      "position": {
+        "x": 0.21661794,
+        "y": -6.176261
+      }
+    },
+    {
+      "id": "05",
+      "position": {
+        "x": 2.806866,
+        "y": -2.1851473
+      }
+    },
+    {
+      "id": "10",
+      "position": {
+        "x": -5.1460514,
+        "y": -6.4382453
+      }
+    },
+    {
+      "id": "03",
+      "position": {
+        "x": 9.155123,
+        "y": -6.786542
+      }
+    },
+    {
+      "id": "04",
+      "position": {
+        "x": 2.75,
+        "y": 1.8
+      }
+    }
+  ],
+  "decision": "Initial is the western nursery cluster, with 06 reachable from Suyay spawn. Expansion01 occupies central/northern ground. Expansion02 occupies eastern/southern ground. No spots moved. Open ground has no natural choke; logical and tinted spot locks only. PLAY_REQUIRED / DESIGN_REVIEW for small-map perception.",
+  "nurseryEntrance": [
+    -8.2,
+    -0.65
+  ],
+  "suyaySpawn": [
+    0,
+    0
+  ]
+}

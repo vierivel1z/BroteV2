@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 4f3912f3842f57c4b89054057b20cbd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1303575102040477585
+    second: PlantDustAtlas_0
+  - first:
+      213: 7812204305853839974
+    second: PlantDustAtlas_1
+  - first:
+      213: -8216499849784897393
+    second: PlantDustAtlas_2
+  - first:
+      213: 2675354980270237539
+    second: PlantDustAtlas_3
+  - first:
+      213: -192877273902865076
+    second: PlantDustAtlas_4
+  - first:
+      213: 6745827566277959389
+    second: PlantDustAtlas_5
+  - first:
+      213: 4828002612120206946
+    second: PlantDustAtlas_6
+  - first:
+      213: 1039179648831370736
+    second: PlantDustAtlas_7
+  - first:
+      213: -639748562587627199
+    second: PlantDustAtlas_8
+  - first:
+      213: 3262528651297433911
+    second: PlantDustAtlas_9
+  - first:
+      213: 653248023599482336
+    second: PlantDustAtlas_10
+  - first:
+      213: 1694508027001031482
+    second: PlantDustAtlas_11
+  - first:
+      213: 8227651455585692380
+    second: PlantDustAtlas_12
+  - first:
+      213: -4488599969972932892
+    second: PlantDustAtlas_13
+  - first:
+      213: -4269437554124115142
+    second: PlantDustAtlas_14
+  - first:
+      213: 5024452520649922021
+    second: PlantDustAtlas_15
+  - first:
+      213: -1646128919410325058
+    second: PlantDustAtlas_16
+  - first:
+      213: -7362178867866431520
+    second: PlantDustAtlas_17
+  - first:
+      213: 1575499275942588430
+    second: PlantDustAtlas_18
+  - first:
+      213: -4589357012915984267
+    second: PlantDustAtlas_19
+  - first:
+      213: -6120935526749630118
+    second: PlantDustAtlas_20
+  - first:
+      213: 8862333181479032096
+    second: PlantDustAtlas_21
+  - first:
+      213: -73433629499559582
+    second: PlantDustAtlas_22
+  - first:
+      213: -5631443530179830122
+    second: PlantDustAtlas_23
+  - first:
+      213: 6472663022678246062
+    second: PlantDustAtlas_24
+  - first:
+      213: -5948164255952324071
+    second: PlantDustAtlas_25
+  - first:
+      213: 2900065445635031504
+    second: PlantDustAtlas_26
+  - first:
+      213: -9045201020810334825
+    second: PlantDustAtlas_27
+  - first:
+      213: 7110104094959277150
+    second: PlantDustAtlas_28
+  - first:
+      213: 5643473856917894931
+    second: PlantDustAtlas_29
+  - first:
+      213: 8959486799663053224
+    second: PlantDustAtlas_30
+  - first:
+      213: 6263278351038979179
+    second: PlantDustAtlas_31
+  - first:
+      213: 2686597818312686139
+    second: PlantDustAtlas_32
+  - first:
+      213: -986488724274956794
+    second: PlantDustAtlas_33
+  - first:
+      213: -4560460446747194023
+    second: PlantDustAtlas_34
+  - first:
+      213: 5765488326854271316
+    second: PlantDustAtlas_35
+  - first:
+      213: 8553047847146717747
+    second: PlantDustAtlas_36
+  - first:
+      213: -3494999270870635236
+    second: PlantDustAtlas_37
+  - first:
+      213: -4022202729527285264
+    second: PlantDustAtlas_38
+  - first:
+      213: 1569534958243497058
+    second: PlantDust_01
+  - first:
+      213: 7742245611966612105
+    second: PlantDust_02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlantDust_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26449a09abb18c510800000000000000
+      internalID: 1569534958243497058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantDust_02
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 4
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c8192d5bf17b60800000000000000
+      internalID: 7742245611966612105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlantDustAtlas_0: -1303575102040477585
+      PlantDustAtlas_1: 7812204305853839974
+      PlantDustAtlas_10: 653248023599482336
+      PlantDustAtlas_11: 1694508027001031482
+      PlantDustAtlas_12: 8227651455585692380
+      PlantDustAtlas_13: -4488599969972932892
+      PlantDustAtlas_14: -4269437554124115142
+      PlantDustAtlas_15: 5024452520649922021
+      PlantDustAtlas_16: -1646128919410325058
+      PlantDustAtlas_17: -7362178867866431520
+      PlantDustAtlas_18: 1575499275942588430
+      PlantDustAtlas_19: -4589357012915984267
+      PlantDustAtlas_2: -8216499849784897393
+      PlantDustAtlas_20: -6120935526749630118
+      PlantDustAtlas_21: 8862333181479032096
+      PlantDustAtlas_22: -73433629499559582
+      PlantDustAtlas_23: -5631443530179830122
+      PlantDustAtlas_24: 6472663022678246062
+      PlantDustAtlas_25: -5948164255952324071
+      PlantDustAtlas_26: 2900065445635031504
+      PlantDustAtlas_27: -9045201020810334825
+      PlantDustAtlas_28: 7110104094959277150
+      PlantDustAtlas_29: 5643473856917894931
+      PlantDustAtlas_3: 2675354980270237539
+      PlantDustAtlas_30: 8959486799663053224
+      PlantDustAtlas_31: 6263278351038979179
+      PlantDustAtlas_32: 2686597818312686139
+      PlantDustAtlas_33: -986488724274956794
+      PlantDustAtlas_34: -4560460446747194023
+      PlantDustAtlas_35: 5765488326854271316
+      PlantDustAtlas_36: 8553047847146717747
+      PlantDustAtlas_37: -3494999270870635236
+      PlantDustAtlas_38: -4022202729527285264
+      PlantDustAtlas_4: -192877273902865076
+      PlantDustAtlas_5: 6745827566277959389
+      PlantDustAtlas_6: 4828002612120206946
+      PlantDustAtlas_7: 1039179648831370736
+      PlantDustAtlas_8: -639748562587627199
+      PlantDustAtlas_9: 3262528651297433911
+      PlantDust_01: 1569534958243497058
+      PlantDust_02: 7742245611966612105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

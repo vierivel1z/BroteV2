@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 86eed65d3e47a504f8c55c21046f697c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7960996241669499658
+    second: Restoration_Props_0
+  - first:
+      213: -1758307347013126291
+    second: Restoration_Props_1
+  - first:
+      213: 6586379937844012272
+    second: Restoration_Props_2
+  - first:
+      213: -6710114777585841585
+    second: Restoration_Props_3
+  - first:
+      213: -2693754093416596369
+    second: Restoration_Props_4
+  - first:
+      213: 2438905140960149405
+    second: Restoration_Props_5
+  - first:
+      213: 4883329913592123681
+    second: Restoration_Props_6
+  - first:
+      213: 3303093147827017675
+    second: Restoration_Props_7
+  - first:
+      213: -2257662905404235773
+    second: Restoration_Props_8
+  - first:
+      213: 4705038978133646213
+    second: Restoration_Props_9
+  - first:
+      213: 3069366451565386742
+    second: Restoration_Props_10
+  - first:
+      213: -5877020764790507878
+    second: Restoration_Props_11
+  - first:
+      213: 5589222913081340103
+    second: Restoration_Props_12
+  - first:
+      213: -3703919175918635781
+    second: Restoration_Props_13
+  - first:
+      213: -303099139897069504
+    second: Restoration_Props_14
+  - first:
+      213: 6540524845899822608
+    second: Restoration_Props_15
+  - first:
+      213: 5936521053915384101
+    second: Restoration_Props_16
+  - first:
+      213: -5105365884663100995
+    second: Restoration_Props_17
+  - first:
+      213: -7281665593454477102
+    second: Restoration_Props_18
+  - first:
+      213: -206690946724106691
+    second: Restoration_Props_19
+  - first:
+      213: -8123502462298576251
+    second: Restoration_Props_20
+  - first:
+      213: 9215456807119734481
+    second: Restoration_Props_21
+  - first:
+      213: 4978153703601621336
+    second: Restoration_Props_22
+  - first:
+      213: -6830030391445255845
+    second: Restoration_Props_23
+  - first:
+      213: -7244096395790478755
+    second: Restoration_Props_24
+  - first:
+      213: 2989850378811218288
+    second: Restoration_Props_25
+  - first:
+      213: -4223548452643501786
+    second: Restoration_Props_26
+  - first:
+      213: -8506872165171779800
+    second: Restoration_Props_27
+  - first:
+      213: 3802572209943719745
+    second: Restoration_Props_28
+  - first:
+      213: 7248398085705438207
+    second: Restoration_Props_29
+  - first:
+      213: -7706890519549851453
+    second: Restoration_Props_30
+  - first:
+      213: -6692232855965225221
+    second: Restoration_Props_31
+  - first:
+      213: 5473725756792349467
+    second: Restoration_Props_32
+  - first:
+      213: 3078143778274338707
+    second: Restoration_Props_33
+  - first:
+      213: -5908591691236747551
+    second: Restoration_Props_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deg_Grass_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 762
+        width: 97
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5244407, y: 0.13708545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4d11de81cd48190800000000000000
+      internalID: -7960996241669499658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Grass_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 762
+        width: 121
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4266761, y: 0.15103392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b257a8cc3997e0800000000000000
+      internalID: -1758307347013126291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Grass_03
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 758
+        width: 104
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47821015, y: 0.25076094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a3f648a5876b50800000000000000
+      internalID: 6586379937844012272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Rock_01
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 763
+        width: 105
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4928984, y: 0.3256794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a85e75922e0e2a0800000000000000
+      internalID: -6710114777585841585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Rock_02
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 755
+        width: 132
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.3253997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c36a59cecdd9ad0800000000000000
+      internalID: -2693754093416596369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Rock_03
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 750
+        width: 119
+        height: 95
+      alignment: 9
+      pivot: {x: 0.46980914, y: 0.41599828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fbdc7cd4bb8d120800000000000000
+      internalID: 2438905140960149405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Branch_01
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 753
+        width: 109
+        height: 130
+      alignment: 9
+      pivot: {x: 0.6059296, y: 0.17340511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12192b4fea215c340800000000000000
+      internalID: 4883329913592123681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Branch_02
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 759
+        width: 90
+        height: 114
+      alignment: 9
+      pivot: {x: 0.61607325, y: 0.14468972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79148a7b1f6dd20800000000000000
+      internalID: 3303093147827017675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Shrub_01
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 760
+        width: 108
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48672032, y: 0.16628744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300edc49c8b2ba0e0800000000000000
+      internalID: -2257662905404235773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Shrub_02
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 751
+        width: 114
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46645102, y: 0.15617187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bd502b508ab4140800000000000000
+      internalID: 4705038978133646213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Patch_01
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 753
+        width: 113
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4872658, y: 0.41969222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb5e078684989a20800000000000000
+      internalID: 3069366451565386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deg_Patch_02
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 750
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47028613, y: 0.30393514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96311190c0a07ea0800000000000000
+      internalID: -5877020764790507878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Grass_01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 466
+        width: 99
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.19704936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ffa060a8e09d40800000000000000
+      internalID: 5589222913081340103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Grass_02
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 464
+        width: 127
+        height: 168
+      alignment: 9
+      pivot: {x: 0.46043432, y: 0.1495494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4bc9a3229099cc0800000000000000
+      internalID: -3703919175918635781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Grass_03
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 462
+        width: 108
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4492439, y: 0.22840276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04075ba20fc2bcbf0800000000000000
+      internalID: -303099139897069504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Sprout_01
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 464
+        width: 80
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5134045, y: 0.26736283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b974b1bc94ca50800000000000000
+      internalID: 6540524845899822608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Sprout_02
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 460
+        width: 78
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5250119, y: 0.21190722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529014c0272c26250800000000000000
+      internalID: 5936521053915384101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Sprout_03
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 460
+        width: 100
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5091187, y: 0.22408204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9024cf6c81629b0800000000000000
+      internalID: -5105365884663100995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Shrub_01
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 461
+        width: 125
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49270654, y: 0.19773571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d046f009b352fa90800000000000000
+      internalID: -7281665593454477102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Shrub_02
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 464
+        width: 119
+        height: 156
+      alignment: 9
+      pivot: {x: 0.44636703, y: 0.22794537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e6836ddafa12df0800000000000000
+      internalID: -206690946724106691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Grass_04
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 458
+        width: 124
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5266891, y: 0.18532695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aaeaafc85834f80800000000000000
+      internalID: -8123502462298576251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Grass_05
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 453
+        width: 117
+        height: 129
+      alignment: 9
+      pivot: {x: 0.47054037, y: 0.21909633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c357f321e3ef70800000000000000
+      internalID: 9215456807119734481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Plant_01
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 461
+        width: 96
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5052986, y: 0.16806641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85948740b64f51540800000000000000
+      internalID: 4978153703601621336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rec_Plant_02
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 460
+        width: 98
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4792393, y: 0.21291192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5988c8cb8bd631a0800000000000000
+      internalID: -6830030391445255845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Grass_01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 102
+        height: 127
+      alignment: 9
+      pivot: {x: 0.48451895, y: 0.20888321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52983a75bcc77b90800000000000000
+      internalID: -7244096395790478755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Grass_02
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 120
+        height: 171
+      alignment: 9
+      pivot: {x: 0.49560764, y: 0.16336559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791c9024151e7920800000000000000
+      internalID: 2989850378811218288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Grass_03
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 155
+        width: 110
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49041665, y: 0.14887127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62988844f01f265c0800000000000000
+      internalID: -4223548452643501786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Shrub_01
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 158
+        width: 110
+        height: 135
+      alignment: 9
+      pivot: {x: 0.51453966, y: 0.17771256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827274d46d481f980800000000000000
+      internalID: -8506872165171779800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Shrub_02
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 156
+        width: 130
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48359516, y: 0.15660945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa77e274375c430800000000000000
+      internalID: 3802572209943719745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Shrub_03
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 156
+        width: 115
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4860914, y: 0.18967423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31811c7ab779460800000000000000
+      internalID: 7248398085705438207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Flowers_01
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 156
+        width: 110
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5050648, y: 0.15745899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c763c7ef9b0590800000000000000
+      internalID: -7706890519549851453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Flowers_02
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 155
+        width: 101
+        height: 135
+      alignment: 9
+      pivot: {x: 0.49539456, y: 0.16881284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeaef9aca96023a0800000000000000
+      internalID: -6692232855965225221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Grass_04
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 149
+        width: 121
+        height: 192
+      alignment: 9
+      pivot: {x: 0.46540567, y: 0.104162134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a383239496fb40800000000000000
+      internalID: 5473725756792349467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Grass_05
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 152
+        width: 111
+        height: 165
+      alignment: 9
+      pivot: {x: 0.44584918, y: 0.09976825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397ee972573c7ba20800000000000000
+      internalID: 3078143778274338707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Shrub_04
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 153
+        width: 113
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49325588, y: 0.3561609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e652017927700ea0800000000000000
+      internalID: -5908591691236747551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Res_Flowers_03
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 151
+        width: 105
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532e48264f63b8498f14d9ada7d5967
+      internalID: 1119929542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a961b97ab9f9bb438e4bd568707bbce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":3.0},"gridSpriteSize":{"x":120.0,"y":362.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Deg_Branch_01: 4883329913592123681
+      Deg_Branch_02: 3303093147827017675
+      Deg_Grass_01: -7960996241669499658
+      Deg_Grass_02: -1758307347013126291
+      Deg_Grass_03: 6586379937844012272
+      Deg_Patch_01: 3069366451565386742
+      Deg_Patch_02: -5877020764790507878
+      Deg_Rock_01: -6710114777585841585
+      Deg_Rock_02: -2693754093416596369
+      Deg_Rock_03: 2438905140960149405
+      Deg_Shrub_01: -2257662905404235773
+      Deg_Shrub_02: 4705038978133646213
+      Rec_Grass_01: 5589222913081340103
+      Rec_Grass_02: -3703919175918635781
+      Rec_Grass_03: -303099139897069504
+      Rec_Grass_04: -8123502462298576251
+      Rec_Grass_05: 9215456807119734481
+      Rec_Plant_01: 4978153703601621336
+      Rec_Plant_02: -6830030391445255845
+      Rec_Shrub_01: -7281665593454477102
+      Rec_Shrub_02: -206690946724106691
+      Rec_Sprout_01: 6540524845899822608
+      Rec_Sprout_02: 5936521053915384101
+      Rec_Sprout_03: -5105365884663100995
+      Res_Flowers_01: -7706890519549851453
+      Res_Flowers_02: -6692232855965225221
+      Res_Flowers_03: 1119929542
+      Res_Grass_01: -7244096395790478755
+      Res_Grass_02: 2989850378811218288
+      Res_Grass_03: -4223548452643501786
+      Res_Grass_04: 5473725756792349467
+      Res_Grass_05: 3078143778274338707
+      Res_Shrub_01: -8506872165171779800
+      Res_Shrub_02: 3802572209943719745
+      Res_Shrub_03: 7248398085705438207
+      Res_Shrub_04: -5908591691236747551
+      Restoration_Props_36: -1460253583
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

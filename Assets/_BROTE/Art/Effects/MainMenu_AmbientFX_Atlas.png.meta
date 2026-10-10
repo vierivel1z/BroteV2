@@ -1,0 +1,1187 @@
+fileFormatVersion: 2
+guid: 9f11ed39ae6f56349ac4e579a8ed3c38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5574345039099316991
+    second: MainMenu_AmbientFX_Atlas_0
+  - first:
+      213: -5985040070536768767
+    second: MainMenu_AmbientFX_Atlas_1
+  - first:
+      213: 675916990058541145
+    second: MainMenu_AmbientFX_Atlas_2
+  - first:
+      213: 9076579497983872960
+    second: MainMenu_AmbientFX_Atlas_3
+  - first:
+      213: -1639204751773003717
+    second: MainMenu_AmbientFX_Atlas_4
+  - first:
+      213: 3268667558374587520
+    second: MainMenu_AmbientFX_Atlas_5
+  - first:
+      213: -2230357147420502195
+    second: MainMenu_AmbientFX_Atlas_6
+  - first:
+      213: -5574922804652393418
+    second: MainMenu_AmbientFX_Atlas_7
+  - first:
+      213: 3887416246943367985
+    second: MainMenu_AmbientFX_Atlas_8
+  - first:
+      213: -1478703375362366459
+    second: MainMenu_AmbientFX_Atlas_9
+  - first:
+      213: -9159718260152482808
+    second: MainMenu_AmbientFX_Atlas_10
+  - first:
+      213: -709087360183800072
+    second: MainMenu_AmbientFX_Atlas_11
+  - first:
+      213: 1892553287170253533
+    second: MainMenu_AmbientFX_Atlas_12
+  - first:
+      213: -2705412513770576177
+    second: MainMenu_AmbientFX_Atlas_13
+  - first:
+      213: 5100605813256079592
+    second: MainMenu_AmbientFX_Atlas_14
+  - first:
+      213: -6497264141104369143
+    second: MainMenu_AmbientFX_Atlas_15
+  - first:
+      213: -7276750441511629789
+    second: MainMenu_AmbientFX_Atlas_16
+  - first:
+      213: -7615260206666937115
+    second: MainMenu_AmbientFX_Atlas_17
+  - first:
+      213: -8850274987597852297
+    second: MainMenu_AmbientFX_Atlas_18
+  - first:
+      213: -3360803756409361102
+    second: MainMenu_AmbientFX_Atlas_19
+  - first:
+      213: -3950266284529974489
+    second: MainMenu_AmbientFX_Atlas_20
+  - first:
+      213: 1116680779755627787
+    second: MainMenu_AmbientFX_Atlas_21
+  - first:
+      213: -9084845364816418888
+    second: MainMenu_AmbientFX_Atlas_22
+  - first:
+      213: 7067261386738555046
+    second: MainMenu_AmbientFX_Atlas_23
+  - first:
+      213: 7328611165496575349
+    second: MainMenu_AmbientFX_Atlas_24
+  - first:
+      213: 8617415095195533944
+    second: MainMenu_AmbientFX_Atlas_25
+  - first:
+      213: 1226468328720390399
+    second: MainMenu_AmbientFX_Atlas_26
+  - first:
+      213: -3352010401852847039
+    second: MainMenu_AmbientFX_Atlas_27
+  - first:
+      213: 9098712923908197170
+    second: MainMenu_AmbientFX_Atlas_28
+  - first:
+      213: 7971148925894685920
+    second: MainMenu_AmbientFX_Atlas_29
+  - first:
+      213: -6665651519921630554
+    second: MainMenu_AmbientFX_Atlas_30
+  - first:
+      213: -8290208434016590489
+    second: MainMenu_AmbientFX_Atlas_31
+  - first:
+      213: -7593635103676064990
+    second: MainMenu_AmbientFX_Atlas_32
+  - first:
+      213: -7991010362664289745
+    second: MainMenu_AmbientFX_Atlas_33
+  - first:
+      213: -2495721789560705730
+    second: MainMenu_AmbientFX_Atlas_34
+  - first:
+      213: 1556357209042906858
+    second: MainMenu_AmbientFX_Atlas_35
+  - first:
+      213: -188505366973117318
+    second: MainMenu_AmbientFX_Atlas_36
+  - first:
+      213: 2561987164121449711
+    second: MainMenu_AmbientFX_Atlas_37
+  - first:
+      213: -654151293536462567
+    second: MainMenu_AmbientFX_Atlas_38
+  - first:
+      213: -8918657370871616929
+    second: MainMenu_AmbientFX_Atlas_39
+  - first:
+      213: 3051477584940450863
+    second: MainMenu_AmbientFX_Atlas_40
+  - first:
+      213: 4126562468213188385
+    second: MainMenu_AmbientFX_Atlas_41
+  - first:
+      213: 230423964132205299
+    second: MainMenu_AmbientFX_Atlas_42
+  - first:
+      213: 755475737752258330
+    second: MainMenu_AmbientFX_Atlas_43
+  - first:
+      213: -1892415483421869764
+    second: MainMenu_AmbientFX_Atlas_44
+  - first:
+      213: 6679909308310361332
+    second: MainMenu_AmbientFX_Atlas_45
+  - first:
+      213: 5854716250493654397
+    second: MainMenu_AmbientFX_Atlas_46
+  - first:
+      213: 6251660343728102438
+    second: MainMenu_AmbientFX_Atlas_47
+  - first:
+      213: -1218021258581086808
+    second: MainMenu_AmbientFX_Atlas_48
+  - first:
+      213: -2968159862566363626
+    second: MainMenu_AmbientFX_Atlas_49
+  - first:
+      213: 6927104600508318328
+    second: MainMenu_AmbientFX_Atlas_50
+  - first:
+      213: -4195095467944245624
+    second: MainMenu_AmbientFX_Atlas_51
+  - first:
+      213: -3996274089089306087
+    second: MainMenu_AmbientFX_Atlas_52
+  - first:
+      213: 9132911151144807073
+    second: MainMenu_AmbientFX_Atlas_53
+  - first:
+      213: -5821384868538376171
+    second: MainMenu_AmbientFX_Atlas_54
+  - first:
+      213: -4386902488718516005
+    second: MainMenu_AmbientFX_Atlas_55
+  - first:
+      213: 4909370402517076196
+    second: MainMenu_AmbientFX_Atlas_56
+  - first:
+      213: 8666413024817674617
+    second: MainMenu_AmbientFX_Atlas_57
+  - first:
+      213: 2613261303415595401
+    second: MainMenu_AmbientFX_Atlas_58
+  - first:
+      213: -1183195237434208739
+    second: MainMenu_AmbientFX_Atlas_59
+  - first:
+      213: -7715474799234172285
+    second: MainMenu_AmbientFX_Atlas_60
+  - first:
+      213: -8774253815173142590
+    second: MainMenu_AmbientFX_Atlas_61
+  - first:
+      213: -2481773720365088186
+    second: MainMenu_AmbientFX_Atlas_62
+  - first:
+      213: -6366635638811540061
+    second: MainMenu_AmbientFX_Atlas_63
+  - first:
+      213: 7818011721771375589
+    second: MainMenu_AmbientFX_Atlas_64
+  - first:
+      213: -7729266704762608280
+    second: MainMenu_AmbientFX_Atlas_65
+  - first:
+      213: 5313015005077872260
+    second: MainMenu_AmbientFX_Atlas_66
+  - first:
+      213: 4416105683892136731
+    second: MainMenu_AmbientFX_Atlas_67
+  - first:
+      213: -7258691319022369793
+    second: MainMenu_AmbientFX_Atlas_68
+  - first:
+      213: 601748757265227519
+    second: MainMenu_AmbientFX_Atlas_69
+  - first:
+      213: 5260402439164002938
+    second: MainMenu_AmbientFX_Atlas_70
+  - first:
+      213: -222887668697563082
+    second: MainMenu_AmbientFX_Atlas_71
+  - first:
+      213: -2918467344951823832
+    second: MainMenu_AmbientFX_Atlas_72
+  - first:
+      213: 3073713312776356128
+    second: MainMenu_AmbientFX_Atlas_73
+  - first:
+      213: 1727584718555064999
+    second: MainMenu_AmbientFX_Atlas_74
+  - first:
+      213: 8471072571521313700
+    second: MainMenu_AmbientFX_Atlas_75
+  - first:
+      213: 7794601511214478519
+    second: MainMenu_AmbientFX_Atlas_76
+  - first:
+      213: 4436341035274086705
+    second: MainMenu_AmbientFX_Atlas_77
+  - first:
+      213: 6570945562730641423
+    second: MainMenu_AmbientFX_Atlas_78
+  - first:
+      213: 6587642436320211480
+    second: MainMenu_AmbientFX_Atlas_79
+  - first:
+      213: -2914631544210813299
+    second: MainMenu_AmbientFX_Atlas_80
+  - first:
+      213: 8174975425934537170
+    second: MainMenu_AmbientFX_Atlas_81
+  - first:
+      213: -8992881402957210522
+    second: MainMenu_AmbientFX_Atlas_82
+  - first:
+      213: -8289715181402444606
+    second: MainMenu_AmbientFX_Atlas_83
+  - first:
+      213: 2778741157039340050
+    second: MainMenu_AmbientFX_Atlas_84
+  - first:
+      213: -4222908727143584462
+    second: MainMenu_AmbientFX_Atlas_85
+  - first:
+      213: 3615572076720905762
+    second: MainMenu_AmbientFX_Atlas_86
+  - first:
+      213: 3480321276345470164
+    second: MainMenu_AmbientFX_Atlas_87
+  - first:
+      213: 7568742613121244023
+    second: MainMenu_AmbientFX_Atlas_88
+  - first:
+      213: -5124545121086986315
+    second: MainMenu_AmbientFX_Atlas_89
+  - first:
+      213: -6234236450278902503
+    second: MainMenu_AmbientFX_Atlas_90
+  - first:
+      213: 5982151939091272372
+    second: MainMenu_AmbientFX_Atlas_91
+  - first:
+      213: 5557181317650013723
+    second: MainMenu_AmbientFX_Atlas_92
+  - first:
+      213: -1083810595926816086
+    second: MainMenu_AmbientFX_Atlas_93
+  - first:
+      213: 341077185194028562
+    second: MainMenu_AmbientFX_Atlas_94
+  - first:
+      213: -3116006390149204123
+    second: MainMenu_AmbientFX_Atlas_95
+  - first:
+      213: -1246128984613157769
+    second: MainMenu_AmbientFX_Atlas_96
+  - first:
+      213: -5512253413328204019
+    second: MainMenu_AmbientFX_Atlas_97
+  - first:
+      213: -1328097100917582765
+    second: MainMenu_AmbientFX_Atlas_98
+  - first:
+      213: 2920391944647566947
+    second: MainMenu_AmbientFX_Atlas_99
+  - first:
+      213: 6610399824887896701
+    second: MainMenu_AmbientFX_Atlas_100
+  - first:
+      213: -998717045535499075
+    second: MainMenu_AmbientFX_Atlas_101
+  - first:
+      213: 1764391447022558371
+    second: MainMenu_AmbientFX_Atlas_102
+  - first:
+      213: 1374853852068693362
+    second: MainMenu_AmbientFX_Atlas_103
+  - first:
+      213: -1314018242424519189
+    second: MainMenu_AmbientFX_Atlas_104
+  - first:
+      213: -3534911990580509060
+    second: MainMenu_AmbientFX_Atlas_105
+  - first:
+      213: 4091735547618048920
+    second: MainMenu_AmbientFX_Atlas_106
+  - first:
+      213: -6239752097351667598
+    second: MainMenu_AmbientFX_Atlas_107
+  - first:
+      213: 6667054090657125630
+    second: MainMenu_AmbientFX_Atlas_108
+  - first:
+      213: -7272395478386122167
+    second: MainMenu_AmbientFX_Atlas_109
+  - first:
+      213: -7604101340233395316
+    second: MainMenu_AmbientFX_Atlas_110
+  - first:
+      213: -5698696904578229215
+    second: MainMenu_AmbientFX_Atlas_111
+  - first:
+      213: 423812097582788978
+    second: MainMenu_AmbientFX_Atlas_112
+  - first:
+      213: 8117930108156286146
+    second: MainMenu_AmbientFX_Atlas_113
+  - first:
+      213: -8551955591490748674
+    second: MainMenu_AmbientFX_Atlas_114
+  - first:
+      213: 5060524747752366440
+    second: MainMenu_AmbientFX_Atlas_115
+  - first:
+      213: 6473972018121381977
+    second: MainMenu_AmbientFX_Atlas_116
+  - first:
+      213: 5051448595130551367
+    second: MainMenu_AmbientFX_Atlas_117
+  - first:
+      213: 3878373505399626130
+    second: MainMenu_AmbientFX_Atlas_118
+  - first:
+      213: 4928531844492220781
+    second: MainMenu_AmbientFX_Atlas_119
+  - first:
+      213: 93912491874589544
+    second: MainMenu_AmbientFX_Atlas_120
+  - first:
+      213: 4181619191904094898
+    second: MainMenu_AmbientFX_Atlas_121
+  - first:
+      213: -3796675419694016182
+    second: MainMenu_AmbientFX_Atlas_122
+  - first:
+      213: 59101056377324714
+    second: MainMenu_AmbientFX_Atlas_123
+  - first:
+      213: 342280052174678768
+    second: MainMenu_AmbientFX_Atlas_124
+  - first:
+      213: 8386185575052692944
+    second: MainMenu_AmbientFX_Atlas_125
+  - first:
+      213: 8876012680309373974
+    second: MainMenu_AmbientFX_Atlas_126
+  - first:
+      213: 4079425385232192745
+    second: MainMenu_AmbientFX_Atlas_127
+  - first:
+      213: -2048630004794074406
+    second: MainMenu_AmbientFX_Atlas_128
+  - first:
+      213: -3179502309708827493
+    second: MainMenu_AmbientFX_Atlas_129
+  - first:
+      213: -5226292249893891823
+    second: MainMenu_AmbientFX_Atlas_130
+  - first:
+      213: -4416328570535897539
+    second: MainMenu_AmbientFX_Atlas_131
+  - first:
+      213: -4929865985369554972
+    second: MainMenu_AmbientFX_Atlas_132
+  - first:
+      213: 5309189673968047074
+    second: MainMenu_AmbientFX_Atlas_133
+  - first:
+      213: -2244468890370506500
+    second: MainMenu_AmbientFX_Atlas_134
+  - first:
+      213: -5483122408039297536
+    second: MainMenu_AmbientFX_Atlas_135
+  - first:
+      213: -1548819925044641781
+    second: MainMenu_AmbientFX_Atlas_136
+  - first:
+      213: -1290812987476912302
+    second: MainMenu_AmbientFX_Atlas_137
+  - first:
+      213: 559718723762186778
+    second: MainMenu_AmbientFX_Atlas_138
+  - first:
+      213: -2247276545973822202
+    second: MainMenu_AmbientFX_Atlas_139
+  - first:
+      213: 4250788968776689285
+    second: MainMenu_AmbientFX_Atlas_140
+  - first:
+      213: 8300626511479382948
+    second: MainMenu_AmbientFX_Atlas_141
+  - first:
+      213: 972750899656588786
+    second: MainMenu_AmbientFX_Atlas_142
+  - first:
+      213: 2805884582976654086
+    second: MainMenu_AmbientFX_Atlas_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MenuLeaf_01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 973
+        width: 211
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105360998b2f3a2b0800000000000000
+      internalID: -5574345039099316991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_02
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 965
+        width: 184
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcd9eecbeaf2041a256e7604be1185
+      internalID: -1345300672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 962
+        width: 178
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7461992def8243479d814ac98163fd4
+      internalID: -1236715632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_04
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 973
+        width: 186
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69805a41f61bc594f867fadf1eb3a937
+      internalID: 622881387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_05
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 973
+        width: 174
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4c8d64f4425a4ca39fe6f705ed752
+      internalID: -1504863165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_06
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 976
+        width: 186
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1f1273e485fd4a88f198d857847a5
+      internalID: -1266226399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_07
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 721
+        width: 174
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9a800cf9fc364d898b78f47b1c86d
+      internalID: -119966553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_08
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 718
+        width: 183
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d97af33fad8b14693754979c554abc
+      internalID: 1594770841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_09
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 707
+        width: 183
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ec8a362328c94b97813b51f21a855
+      internalID: 688622031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 710
+        width: 169
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480dd3daeeaf168499c1382ee371fd96
+      internalID: 1802970417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 703
+        width: 191
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd4e0b84b826846ac5813f5215e3f5
+      internalID: -586914540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeaf_12
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 722
+        width: 182
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6db5b0f8f730341b71d5fbdef56b44
+      internalID: 355483371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeafCluster_01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 494
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8050526782fd49a7759181b2c97b9
+      internalID: 1728080655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeafCluster_02
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 483
+        width: 204
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc5ea3150569a34abaa5ce9dbf1a18f
+      internalID: 805907090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeafCluster_03
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 486
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e9ef4cd1e65a4189dc4e629760f31
+      internalID: 1540152523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuLeafCluster_04
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 479
+        width: 183
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3e19328e4b92f4eb28b61276af50d7
+      internalID: 1230702035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuWind_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 265
+        width: 209
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c031098a1c23b294fbd74c6de2626e98
+      internalID: -809877536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuWind_02
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 265
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7456053b89982924f84392bdd628bb10
+      internalID: -585838619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuWind_03
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 274
+        width: 202
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acabdccb33f5b7c4b97ff967a8c66704
+      internalID: 1454111204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuWind_04
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 278
+        width: 189
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2b401044db8941a9523123bad2fd4
+      internalID: -272158033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuWind_05
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 281
+        width: 205
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f50e9aaffb3d47ac48e07024f40f3
+      internalID: -523072952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 189
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab732c7a69e9354e8257a8417626fcb
+      internalID: 1674205124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_02
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 44
+        width: 198
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1dcf0c4956c1f4e9856671d5bc6997
+      internalID: -1022083710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_03
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 41
+        width: 186
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7336d6d6995464997623233afc5453
+      internalID: -62580375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_04
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 38
+        width: 203
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1769635032b09f478f981a2cf50e847
+      internalID: -201753226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_05
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 51
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a533b3a5e412f4581f402f19b2b3c5
+      internalID: -1950934177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDebris_06
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 53
+        width: 195
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb384d2551e6184fb7f5cb48263ad2c
+      internalID: -1027877231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9dd82f19b6afd68498ad7d299cf2d22a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1254.0,"y":1254.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MenuDebris_01: 1674205124
+      MenuDebris_02: -1022083710
+      MenuDebris_03: -62580375
+      MenuDebris_04: -201753226
+      MenuDebris_05: -1950934177
+      MenuDebris_06: -1027877231
+      MenuLeafCluster_01: 1728080655
+      MenuLeafCluster_02: 805907090
+      MenuLeafCluster_03: 1540152523
+      MenuLeafCluster_04: 1230702035
+      MenuLeaf_01: -5574345039099316991
+      MenuLeaf_02: -1345300672
+      MenuLeaf_03: -1236715632
+      MenuLeaf_04: 622881387
+      MenuLeaf_05: -1504863165
+      MenuLeaf_06: -1266226399
+      MenuLeaf_07: -119966553
+      MenuLeaf_08: 1594770841
+      MenuLeaf_09: 688622031
+      MenuLeaf_10: 1802970417
+      MenuLeaf_11: -586914540
+      MenuLeaf_12: 355483371
+      MenuWind_01: -809877536
+      MenuWind_02: -585838619
+      MenuWind_03: 1454111204
+      MenuWind_04: -272158033
+      MenuWind_05: -523072952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
